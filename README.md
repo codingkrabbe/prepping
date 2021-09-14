@@ -1,8 +1,11 @@
 # Prepping-Liste mit wenig Aufwand
 
 ## Ziel
-Wenig Aufwand beim Instandhalten der Prepping-Liste, wenig/kein Verfall von Lebensmitteln wegen langer Bevorratung.
+Wenig Aufwand beim Instandhalten der Prepping-Liste
+
+Wenig/kein Verfall von Lebensmitteln wegen langer Bevorratung.
 --> viel langhaltende Lebensmittel
+
 Eingeplante Zeit zum Überbrücken: 10 Tage
 
 ## Kalkulationen
