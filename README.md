@@ -31,26 +31,24 @@ Liste ist auf 2 Personen ausgelegt.
 Benötigte Kalorien: 2 Personen x 10 Tage x 2.200 kcal = 44.000 kcal
 
 ### Lebensmittel
-Zutat kg
-Apfelmus	1
-Dosenwurst	2
-Cocktailfrüchte	1
-Kirschen im Glas	1
-Milch	2
-Nudeln	3
-Nüsse	0,5
-Olivenöl	1
-passierte Tomaten	2
-Reis	2
-Rote Linsen	1
-Volleipulver	1
-Zucker	0,5
+- Apfelmus	1kg
+- Dosenwurst	2kg
+- Cocktailfrüchte	1kg
+- Kirschen im Glas	1kg
+- Milch	2l
+- Nudeln	3kg
+- Nüsse	0,5kg
+- Olivenöl	1kg
+- passierte Tomaten	2l
+- Reis	2kg
+- Rote Linsen	1kg
+- Volleipulver	1kg
+- Zucker	0,5
 
-### Getränke
+### Wasser
 
 - 40l Trinkwasser
 - 40l Brauchwasser
-- 4l Milch
 
 
 ### Verbrauchsgüter
