@@ -8,11 +8,15 @@ Eingeplante Zeit zum Überbrücken: 10 Tage
 ## Kalkulationen
 
 Tages-Wasserbedarf pro Person(Trinkwasser): 2l
+
 Tages-Wasserbedarf pro Person(Brauchwasser): 2l
+
 Tages-Kalorienbedarf: 2200kcal (Basis Bundesamt für Katastrophenschutz)
 
 --> pro Person 22.000 kcal
+
 --> Pro Person 20l Trinkwasser
+
 --> Pro Person 20l Brauchwasser
 
 
