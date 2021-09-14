@@ -80,7 +80,7 @@ Benötigte Kalorien: 2 Personen x 10 Tage x 2.200 kcal = 44.000 kcal
 - Radio(Batterie/Kurbel)
 - wasserdichte Dokumententasche(Evakuierung)
 - Notfall-Rucksack
-- SOS Kapsel (Lukas)
+- SOS Kapsel (Kind)
 - Feuerlöscher
 
 ### Medikamente
